@@ -1,0 +1,29 @@
+<style>
+	h1 {
+		font-size : 34px;
+		text-align : center;
+		font-family : georgian;
+	
+		}
+	
+	table {
+		font-size : 26px;
+		text-align : left;
+		font-family : georgian;
+		}
+
+	th	{
+		font-weight :1;
+		}
+		
+	p {
+		font-size : 26px;
+		text-align : left;
+		font-family : georgian;
+		}
+		
+	div.a	{
+		text-indent : 20px;
+		}
+		
+</style>
