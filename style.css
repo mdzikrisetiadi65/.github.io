@@ -14,11 +14,13 @@
 
 	th	{
 		font-weight :1;
+		color: red;
 		}
 		
 	p {
 		font-size : 26px;
 		text-align : left;
+		color: red;
 		font-family : georgian;
 		}
 		
